@@ -23,10 +23,6 @@ Para jogar o Jogo da Forca, siga estas etapas:
 3. Comece a adivinhar as letras para desvendar a palavra secreta.
 4. Aproveite e desafie seus amigos para ver quem consegue adivinhar as palavras em menos tempo!
 
-## Demonstração
-
-Você pode experimentar o jogo em ação [aqui](https://github.com/SeuUsuarioGitHub).
-
 ## Agradecimentos
 
 Este projeto foi baseado em um trabalho anterior de Agnaldo Guimarães (https://github.com/agnaldoguima).
